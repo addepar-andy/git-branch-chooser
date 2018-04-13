@@ -25,7 +25,7 @@ Which branch?
 Type the number of the branch and it will be checked out
 
 ```console
-Which branch? 3
+Which branch? 2
 
 Checking out master
 Switched to branch 'master'
